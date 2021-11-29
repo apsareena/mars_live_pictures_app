@@ -25,7 +25,3 @@ You need to know:
 - How to use coroutines for long-running tasks.
 
 
-Getting Started
----------------
-
-1. Download and run the app.

@@ -1,10 +1,7 @@
-MarsPhotos - Solution Code
-==================================
+MarsPhotos
+==========
 
-Solution code for Android Basics in Kotlin.
 
-Introduction
-------------
 
 MarsPhotos is a demo app that shows actual images of Mar's surface. These images are
 real-life photos from Mars captured by NASA's Mars rovers. The data is stored on a Web server
@@ -16,12 +13,8 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 [Data Binding](https://developer.android.com/topic/libraries/data-binding/) with binding 
 adapters.
 
-Pre-requisites
---------------
-
-You need to know:
-- How to create and use fragments.
-- How to use architecture components including ViewModel, and LiveData.
-- How to use coroutines for long-running tasks.
+![photos](https://user-images.githubusercontent.com/56432777/170825935-cbad6b6d-0403-41c9-8dbe-97ab3c8cb507.jpg)
+![loading](https://user-images.githubusercontent.com/56432777/170825944-c4b5d700-92b3-4ccd-984a-d223a155caec.jpg)
+![network](https://user-images.githubusercontent.com/56432777/170825956-c8dd33f1-86ee-45fa-ab45-68a3f4f71df1.jpg)
 
 
